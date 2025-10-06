@@ -94,3 +94,6 @@ This project is **open-source** and available under the **MIT License**.
 
 ![image alt](https://github.com/M-tech-cmd/Modern-UI-UX-Restaurant/blob/eca31e084a2fc6388b901fa63da4cfe6f7d19283/WhatsApp%20Image%202025-10-06%20at%2021.19.37_6ac7872d.jpg)
 
+![image alt](https://github.com/M-tech-cmd/Modern-UI-UX-Restaurant/blob/b6d3173797394ecb418689e1426ce94c31649903/WhatsApp%20Image%202025-10-06%20at%2021.20.05_2abbba3f.jpg)
+
+![image alt](https://github.com/M-tech-cmd/Modern-UI-UX-Restaurant/blob/b6d3173797394ecb418689e1426ce94c31649903/WhatsApp%20Image%202025-10-06%20at%2021.20.54_87ed3473.jpg)
