@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Modern-UI-UX-Restaurant
 =======
 # 🍽️ Savoria – Responsive Restaurant Website
@@ -86,4 +85,4 @@ npm run build
 ## 📄 License
 
 This project is **open-source** and available under the **MIT License**.
->>>>>>> b300b66c2cf4ab2f376c148eb9cfdc700cf56d9f
+
