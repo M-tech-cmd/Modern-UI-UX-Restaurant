@@ -78,11 +78,19 @@ npm run build
 
 ## 📸 Preview
 
-(Include screenshots or demo link here)
+https://modern-ui-ux-restaurant-sage.vercel.app/
 
 ---
 
 ## 📄 License
 
 This project is **open-source** and available under the **MIT License**.
+
+![image alt](https://github.com/M-tech-cmd/Modern-UI-UX-Restaurant/blob/eca31e084a2fc6388b901fa63da4cfe6f7d19283/WhatsApp%20Image%202025-10-06%20at%2021.16.29_17ad9f75.jpg)
+
+![image alt](https://github.com/M-tech-cmd/Modern-UI-UX-Restaurant/blob/eca31e084a2fc6388b901fa63da4cfe6f7d19283/WhatsApp%20Image%202025-10-06%20at%2021.17.25_b0d0fc6c.jpg)
+
+![image alt](https://github.com/M-tech-cmd/Modern-UI-UX-Restaurant/blob/eca31e084a2fc6388b901fa63da4cfe6f7d19283/WhatsApp%20Image%202025-10-06%20at%2021.18.43_ffd5b204.jpg)
+
+![image alt](https://github.com/M-tech-cmd/Modern-UI-UX-Restaurant/blob/eca31e084a2fc6388b901fa63da4cfe6f7d19283/WhatsApp%20Image%202025-10-06%20at%2021.19.37_6ac7872d.jpg)
 
